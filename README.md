@@ -1,2 +1,2 @@
 # Data-Structures
-A collection of data structures algorithms. 
+A collection of DS algorithms.
